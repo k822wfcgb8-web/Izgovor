@@ -1,0 +1,16 @@
+{
+  "name": "Izgovor – Croatian practice",
+  "short_name": "Izgovor",
+  "description": "Croatian pronunciation and typing practice with the Tako Lako vocabulary.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#1d5fd1",
+  "lang": "en",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
